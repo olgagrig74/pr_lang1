@@ -1,0 +1,1 @@
+Вывести квадрат числа [Блок-схема](Lesson01\Task01\diagram.drawio) [Код] (Lesson01\Program.cs)
