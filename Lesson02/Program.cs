@@ -12,4 +12,17 @@
 // 4. Проверить: если остаток не равен 0, показать остаток
 // 5. Иначе показать сообщение "кратно"
 
+int firstNumber = 16;
+int secondNumber = 6;
 
+int remainder = firstNumber % secondNumber;
+
+if (remainder != 0)
+{
+    Console.WriteLine(remainder);
+}
+else
+{
+    Console.WriteLine("Кратно");
+}
+Console.WriteLine("end");
